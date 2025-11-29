@@ -1,0 +1,241 @@
+53 :170
+
+Jaber:37:37
+Berlin:52.51641564467333:13.401341311979357
+Doha:25.293851014760993:51.53189214332465
+Copenhagen:55.67666056241435:12.571505280539292
+Algiers:36.74000533111587:3.0857573924061095
+Amman:31.96707861044393:35.92010031968191
+Riyadh:24.743706925431272:46.66843793126525
+Madrid:40.42185509102754:-3.698859914776129
+Toronto:43.65605668440922:-79.38631138447094
+Ankara:39.93538384019664:32.86574710011954
+Washington:47.34699548003657:-120.05028114874878
+Abu Dhabi:24.467747629762897:54.35393020519726
+Kabul:34.56683535041048:69.20590829032771
+Yerevan:40.19166208062775:44.51465601677153
+Buenos Aires:-34.67962725542664:-58.48480075965958 
+Vienna:48.2054735031654:16.37413682044544
+Canberra:-35.280242886871335:149.1270204658385
+Baku:40.40597942274412:49.87554460125154
+Dhaka:23.812166532799786:90.41898490870065
+Brussels:50.84902474059857:4.3616806736181255
+Sofia:42.701369688126654:23.31569312195506
+Brasilia:-15.792197249186545:-47.88931107148595
+Bangkok:13.785740656121238:100.49982646558942
+Ottawa:45.427299184502026:-75.69319260076755
+Beijing:39.92156775149225:116.40289441074528
+Bogota:4.71123918909306:-74.06525407722275
+Rome:41.89973248393455:12.483798826324811
+Cairo:30.047001031972833:31.238207282191386
+Addis Ababa:9.035028871486354:38.76713955527472
+Helsinki:60.167873897996394:24.918394641328078
+Paris:48.85882549203499:2.3429120315553686
+Tbilisi:41.70248917343175:44.800569882097605
+Accra:5.560791813907526:-0.20170684549155132
+Athens:37.985418297774295:23.726665443809594
+Zagreb:45.81969129254744:15.956111185361335
+Jakarta:-6.196272919478182:106.81507939985372
+Dublin:53.3520858735531:-6.256701527848307
+New Delhi:28.624938741778564:77.2233879455452
+Reykjavik:64.14634549070735:-21.94273825827817
+Tokyo:35.77438354421669:139.13161870152837
+Nairobi:-1.2915335791205125:36.80961218843494
+Rabat:34.0124594360214:-6.855893437595202
+Tripoli:32.8882974251038:13.187305930888556
+Dakar:14.717651160295299:-17.469949475305818
+Tunis:36.81024893750871:10.181039312715853
+Nouakchott:18.07825015075409:-15.957341971635525
+Monrovia:6.317289979114835:-10.805041373228745
+Antananarivo:-18.91553951995535:47.51455581303773
+Mexico City:19.43663933361635:-99.11273161798022
+Caracas:10.476451890120742:-66.90755081425313
+Perth:-31.947510279834372:115.86239947238911
+Santiago:-33.44829210905978:-70.69718590917128
+....
+Berlin:Reykjavik:210:325
+Berlin:Amman:260:307
+Berlin:Helsinki:125:114
+Berlin:Beijing:540:479
+Copenhagen:Washington:555:2220
+Copenhagen:Tokyo:755:2341
+Copenhagen:New Delhi:440
+Copenhagen:Paris:125:53
+Algiers:Vienna:150:301
+Algiers:Rome:120:208
+Algiers:Cairo:225:258
+Algiers:Amman:290:281
+Amman:Ankara:155:95
+Amman:Berlin:290:382
+Amman:Tripoli:210:410
+Riyadh:Paris:395:346
+Riyadh:Addis Ababa:205:144
+Riyadh:Tbilisi:200:187
+Ankara:Copenhagen:210:224
+Ankara:Vienna:165:98
+Ankara:Paris:250:138
+Washington:Bogota:330:1331
+Washington:Accra:580:1140
+Washington:Brussels:470:750
+Washington:Ottawa:92:338
+Abu Dhabi:Baku:200:74
+Abu Dhabi:Jakarta:485:576
+Abu Dhabi:Nairobi:325:338
+Abu Dhabi:Tokyo:565:1138
+Yerevan:Sofia:180:40
+Yerevan:Abu Dhabi:190:66
+Yerevan:Rome:265:44
+Buenos Aires:Santiago:130:136
+Buenos Aires:Brasilia:215:770
+Buenos Aires:Mexico City:580:1549
+Buenos Aires:Bogota:380:554
+Vienna:Baku:230:196
+Vienna:Yerevan:200:42
+Vienna:Helsinki:145:183
+Vienna:Copenhagen:110:126
+Canberra:Perth:270:431
+Baku:Ankara:160:178
+Baku:Beijing:445:340
+Baku:New:Delhi:265:239
+Baku:Riyadh:180:173
+Dhaka:Doha:340:1126
+Dhaka:New Delhi:175:116
+Dhaka:Beijing:300:296
+Dhaka:Cairo:455:590
+Brussels:Nairobi:510:777
+Brussels:Monrovia:435:654
+Brussels:Reykjavik:205:334
+Brussels:Algiers:170:241
+Sofia:Doha:280:457
+Sofia:Abu Dhabi:305:94
+Sofia:Paris:190:165
+Brasilia:Bogota:332:249
+Brasilia:Santiago:290:173
+Brasilia:Buenos Aires:215:229
+Beijing:Jakarta:465:202
+Beijing:Brussels:645:502
+Beijing:Baku:510:136
+Beijing:Addis Ababa:705:1230
+Beijing:Algiers:795:826
+Bogota:Mexico City:298:175
+Bogota:Brasilia:322:505
+Bogota:Washington:325:3387
+Rome:Dhaka:510:928
+Rome:Accra:360:460
+Rome:Reykjavik:300:397
+Rome:Tokyo:735:641
+Rome:Beijing:625:820
+Jaber:Cairo:230:120
+Cairo:Jakarta:665:1199
+Cairo:Vienna:225:417
+Cairo:Tripoli:110:164
+Cairo:Athens:120:137
+Cairo:Yerevan:165:226
+Addis Ababa:Athens:315:511
+Addis Ababa:Antananarivo:290:470
+Addis Ababa:Monrovia:380:559
+Addis Ababa:Dhaka:415:607
+Helsinki:Dublin:195:167
+Helsinki:Copenhagen:100:85
+Helsinki:Brussels:160:158
+Helsinki:Doha:425:540
+Paris:Perth:990:1270
+Paris:Riyadh:380:435
+Paris:Rabat:190:120
+Paris:Berlin:110:59
+Tbilisi:Athens:180:116
+Tbilisi:New Delhi:295:212
+Tbilisi:Riyadh:190:202
+Tbilisi:Amman:165:239
+Accra:Nairobi:340:
+Accra:Cairo:325:495
+Accra:Addis Ababa:340:917
+Athens:Tunis:135:150
+Athens:Helsinki:230:149
+Athens:Dublin:270:160
+Athens:Abu Dhabi:270:358
+Zagreb:Vienna:70:250
+Zagreb:Rome:85:286
+Zagreb:Doha:325:431
+Jakarta:Perth:275:225
+Jakarta:Cairo:680:1918
+Jakarta:Beijing:430:390
+Jakarta:Bangkok:225:254
+Dublin:Washington:490:626
+Dublin:Helsinki:180:164
+Dublin:Copenhagen:130:75
+Toronto:Dublin:400:730
+Toronto:Santiago:640:370
+Toronto:Ottawa:67:121
+Toronto:Dublin:400:730
+New Delhi:Kabul:120:302
+New Delhi:Nairobi:445:373
+New Delhi:Tbilisi:345:206
+New Delhi:Riyadh:315:223
+New Delhi:Bangkok:235:171
+Reykjavik:Toronto:365:390
+Reykjavik:Berlin:210:285
+Reykjavik:Vienna:245:63
+Tokyo:Jakarta:490:1763
+Tokyo:Mexico City:745:2365
+Tokyo:Brussels:860:1487
+Tokyo:Dhaka:490:359
+Nairobi:Antananarivo:200:724
+Nairobi:New Delhi:425:380
+Nairobi:Accra:340:547
+Rabat:Tunis:150:115
+Rabat:Paris:185:62
+Rabat:Brussels:215:124
+Tripoli:Amman:210:340
+Tripoli:Tunis:70:272
+Tripoli:Rome:120:268
+Tunis:Nouakchott:295:248
+Tunis:Dakar:310:356
+Tunis:Rabat:160:67
+Dakar:Algiers:260:434
+Dakar:Nouakchott:60:241
+Dakar:Rome:350:610
+Nouakchott:Algiers:215:374
+Nouakchott:Tunis:255:354
+Nouakchott:Dakar:60:200
+Monrovia:Addis Ababa:440:767
+Monrovia:Accra:110:355
+Monrovia:Brussels:395:794
+Antananarivo:Addis Ababa:280:956
+Mexico City:Bogota:284:236
+Mexico City:Buenos Aires:540
+Mexico City:Santiago:490:726
+Perth:Jakarta:270:244
+Perth:Tokyo:575:831
+Perth:Doha:695:793
+Perth:Paris:1045:985
+Santiago:Brasilia:260:180
+Santiago:Toronto:650:521
+Santiago:Bogota:350:185
+Kabul:Riyadh:240:427
+Kabul:Abu Dhabi:180:266
+Madrid:Rabat:100:173
+Madrid:Bangkok:740:506
+Madrid:Caracas:565:465
+Caracas:Bogota:115:125
+Caracas:Madrid:505:432
+Bangkok:Dhaka:165:199
+Bangkok:Perth:210:382
+Bangkok:Nairobi:545:646
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
